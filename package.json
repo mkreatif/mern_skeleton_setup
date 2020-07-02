@@ -1,0 +1,14 @@
+{
+  "name": "mern_sekleton_backend",
+  "version": "1.0.0",
+  "description": "this repository for learning mern backend, this structure will be expanded",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mern_backend"
+  ],
+  "author": "marlina_kreatif",
+  "license": "MIT"
+}
